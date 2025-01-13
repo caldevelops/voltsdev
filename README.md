@@ -1,3 +1,3 @@
 
 # Hey there, respect for being here 🤘
-I'm a 16 year old self-taught developer from the UK. I mostly work on projects that use discord.py (which are public), but work on the private projects using; JS, CSS and HTML.
+I'm a 17 year old self-taught developer from the UK. I mostly work on projects that use discord.py (which are public), but work on the private projects using; JS, CSS and HTML.
